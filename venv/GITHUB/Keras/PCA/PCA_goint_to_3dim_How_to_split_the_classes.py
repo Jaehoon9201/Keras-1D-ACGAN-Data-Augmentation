@@ -1,7 +1,4 @@
-# https://machinelearningmastery.com/principal-components-analysis-for-dimensionality-reduction-in-python/
-# https://ai-hyu.com/python-pca-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/
-# https://scipython.com/blog/plotting-the-decision-boundary-of-a-logistic-regression-model/
-#evaluate pca with logistic regression algorithm for classification
+
 from keras.datasets import mnist
 from sklearn.metrics import classification_report, precision_score, recall_score, f1_score, confusion_matrix
 from tensorflow.keras import layers
