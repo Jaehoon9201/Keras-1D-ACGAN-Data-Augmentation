@@ -23,3 +23,6 @@ generated_fake_data = np.append(X_fake_temp, labels_fake_temp, axis=1)
 np.savetxt('generated_data/generated_fake_data %s th.csv' % (i + 1), generated_fake_data, delimiter=",")
 ```
 
+The outputs are saved like below.
+
+![20210508_002017](https://user-images.githubusercontent.com/71545160/117471925-4f466980-af93-11eb-834a-66af833d8717.png)
