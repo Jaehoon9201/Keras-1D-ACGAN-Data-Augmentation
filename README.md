@@ -11,6 +11,8 @@ This code would be useful to whom are going to use **(1) an 1-D dataset classifi
 
 you can get the generated data sinutaneously, as you are running this code.
 
+The generated data is saved to the **.csv format** .
+
 This is worked by this code in the file.
 ```python
 generated_fake_data = np.append(X_fake_temp, labels_fake_temp, axis=1)
