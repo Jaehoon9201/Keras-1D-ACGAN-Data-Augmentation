@@ -1,5 +1,13 @@
 ## Keras-1D-ACGAN-Data-Augmentation
 
+### What is the ACGAN ?
+
+[Related Paper](https://arxiv.org/abs/1610.09585)
+
+
+
+### About this Code
+
 This code is based on the code from the referenced site.
 
 [Reference](https://machinelearningmastery.com/how-to-develop-an-auxiliary-classifier-gan-ac-gan-from-scratch-with-keras/)
