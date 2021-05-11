@@ -4,6 +4,10 @@
 
 [Related Paper](https://arxiv.org/abs/1610.09585)
 
+The following shows the structure of ACGAN. Discriminator(D) consists of two classifiers. One is to determine the same real/fake as the original GAN. The other is to determine the class of data. 
+
+![20210511_122049](https://user-images.githubusercontent.com/71545160/117753398-5f8c6c00-b253-11eb-9a86-438ae91186e6.png)
+
 
 
 ### About this Code
